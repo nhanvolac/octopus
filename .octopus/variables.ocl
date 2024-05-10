@@ -1,0 +1,3 @@
+variable "halovu1" {
+    value "123" {}
+}
